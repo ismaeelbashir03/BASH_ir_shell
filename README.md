@@ -12,7 +12,7 @@ To compile and run the custom shell, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/custom-shell.git
+    git clone https://github.com/ismaeelbashir03/BASH_ir_shell.git
     ```
 2. Navigate to the project directory:
     ```sh
